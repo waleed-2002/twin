@@ -1,10 +1,5 @@
-Here’s the **updated and cleaned `README.md`**, using **`uv`** to install and run the backend 👇
 
----
-
-# TwinA
-
-TwinA is a **full-stack application** with a **Python (FastAPI) backend** and a **Next.js (React + TypeScript) frontend**.
+Twin is a **full-stack application** with a **Python (FastAPI) backend** and a **Next.js (React + TypeScript) frontend**.
 
 ---
 
@@ -131,4 +126,3 @@ To run the full stack locally:
 
 ---
 
-✨ **Happy Coding!**
