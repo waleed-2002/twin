@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-01-02T18:38:28.758951"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! Welcome to my site. I\u2019m Waleed\u2014AI/ML engineer and full-stack developer. How can I help you today?",
+    "timestamp": "2026-01-02T18:38:28.758968"
+  },
+  {
+    "role": "user",
+    "content": "whats my linedin profile",
+    "timestamp": "2026-01-02T18:38:38.195361"
+  },
+  {
+    "role": "assistant",
+    "content": "Your LinkedIn profile URL is: www.linkedin.com/in/waleed-ashraf2002\n\nIf you want, I can help you with ideas on how to optimize it or what to highlight based on your experience.",
+    "timestamp": "2026-01-02T18:38:38.195384"
+  },
+  {
+    "role": "user",
+    "content": "what projects waleed did",
+    "timestamp": "2026-01-02T18:38:52.034535"
+  },
+  {
+    "role": "assistant",
+    "content": "I've worked on several interesting projects that blend AI and full-stack development. Some key ones include:\n\n- AI-Powered Recipe Generation & Image Extraction System: This project used AI to generate recipes and extract related images automatically.\n- RAG-based Chatbot with LLM and ReactJs: I built a chatbot using Retrieval-Augmented Generation with large language models integrated into a React frontend.\n- AI Healthcare Appointment Voice Agent: A voice-controlled agent to help users schedule healthcare appointments smoothly.\n- Ritual Generator Web App: A web app generating personalized rituals.\n- AI-RiceHarbor App: This was my final year project, focusing on AI applications related to rice farming.\n\nThese projects reflect my passion for creating practical AI solutions from end to end. If you'd like details on any of these, just let me know!",
+    "timestamp": "2026-01-02T18:38:52.034558"
+  },
+  {
+    "role": "user",
+    "content": "what qs i asked previosly",
+    "timestamp": "2026-01-02T18:39:12.155407"
+  },
+  {
+    "role": "assistant",
+    "content": "So far, you\u2019ve asked:\n\n1. \u201cwhats my linedin profile\u201d \u2014 where I shared your LinkedIn URL.\n2. \u201cwhat projects waleed did\u201d \u2014 where I summarized some of your key projects.\n\nIf you want, I can recap or clarify anything further.",
+    "timestamp": "2026-01-02T18:39:12.155417"
+  }
+]

@@ -1,0 +1,54 @@
+{
+    "full_name": "Muhammad Waleed Ashraf",
+    "name": "Waleed",
+    "current_role": "AI/ML Engineer at Advancing Data Solutions",
+    "location": "Faisalabad, Punjab, Pakistan",
+    "email": "waleed.ashraf1601@gmail.com",
+    "phone": "03127948884",
+    "github": "https://github.com/waleed-2002",
+    "linkedin": "www.linkedin.com/in/waleed-ashraf2002",
+    "specialties": [
+      "AI/ML Engineering",
+      "Full Stack Development (MERN, Next.js)",
+      "LLM Fine-tuning & RAG Systems",
+      "Computer Vision & NLP",
+      "FastAPI & AWS Deployment"
+    ],
+    "years_experience": 1,
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science",
+        "institution": "National University of Computer and Emerging Sciences (FAST NUCES)",
+        "year": "2020-2024"
+      },
+      {
+        "degree": "FSc Pre-Engineering",
+        "institution": "Punjab Group of Colleges",
+        "year": "2018-2020"
+      }
+    ],
+    "technical_skills": [
+      "ReactJs",
+      "MERN Stack",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "LLM Fine-tuning",
+      "API Development",
+      "FastAPI",
+      "Prompt Engineering",
+      "AWS (EC2, S3, Bedrock)",
+      "TensorFlow",
+      "Next.js",
+      "Docker",
+      "Nginx"
+    ],
+    "key_projects": [
+      "AI-Powered Recipe Generation & Image Extraction System",
+      "RAG-based Chatbot with LLM and ReactJs",
+      "AI Healthcare Appointment Voice Agent",
+      "Ritual Generator Web App",
+      "AI-RiceHarbor App (Final Year Project)"
+    ]
+}
